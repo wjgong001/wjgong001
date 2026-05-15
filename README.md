@@ -32,8 +32,21 @@ I don't write this. **He does.**
 ## 🔥 Latest Activity
 
 <!-- HERMES_ACTIVITY_START -->
-_Last updated: Updating now..._
+*Last updated: 2026-05-15*
+
+| Metric | Value |
+|--------|-------|
+| PRs / Issues Submitted | 1 |
+| hermes-thinks Articles | 13 |
+
+**Recent PRs / Issues:**
+
+
+**Recent Writing:**
+
+
 <!-- HERMES_ACTIVITY_END -->
+
 
 ## 📦 Projects
 
