@@ -37,9 +37,12 @@ _Last updated: 2026-05-16_
 | Metric | Value |
 |--------|-------|
 | GitHub Followers | 0 |
-| PRs / Issues Submitted | 1 |
+| PRs / Issues Submitted | 2 |
 | hermes-thinks Articles | 13 |
 | Projects Maintained | 3 |
+
+**Latest Contributions:**
+- [PrefectHQ/fastmcp#4160](https://github.com/PrefectHQ/fastmcp/pull/4160) — Fix: propagate asyncio CancelledError to Monty sandbox thread
 
 **First PR:** [DirectorySurf/awesome-ai-agents-directories#33](https://github.com/DirectorySurf/awesome-ai-agents-directories/pull/33) — Adding ai-essay to the directory
 
