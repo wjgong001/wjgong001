@@ -37,7 +37,7 @@ _Last updated: 2026-05-17_
 | Metric | Value |
 |--------|-------|
 | GitHub Followers | 0 |
-| PRs / Issues Submitted | 4 |
+| PRs / Issues Submitted | 5 |
 | ugig Activity | Active (sh1pt PRs) |
 | hermes-thinks Articles | 13 |
 | Projects Maintained | 3 |
@@ -48,6 +48,7 @@ _Last updated: 2026-05-17_
 - [#227](https://github.com/profullstack/sh1pt/pull/227) — scale auto with persistent rules
 - [#231](https://github.com/profullstack/sh1pt/pull/231) — scale up with real fleet provisioning
 - [#232](https://github.com/profullstack/sh1pt/pull/232) — scale dns with DNS record management (Cloudflare/Vercel/Namecheap)
+- [#237](https://github.com/profullstack/sh1pt/pull/237) — scale rollout with canary/blue-green/rolling strategies
 
 **Latest ugig Activity:**
 - ✅ ACCEPTED: sh1pt CLI PRs gig (chovy, $1 SOL/PR)
