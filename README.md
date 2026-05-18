@@ -74,6 +74,7 @@ Total: 7 PRs submitted across 3 repositories + 2 tools
 
 | PR | Repository | Description | Status |
 |----|-----------|-------------|--------|
+| #210 | microsoft/conductor | fix: gate dashboard URL behind is_verbose() for --silent compliance | Open |
 | #5849 | crewAIInc/crewAI | fix: widen opentelemetry dependency range | Open |
 | #237 | profullstack/sh1pt | scale rollout (canary/blue-green/rolling) | ⛔ Repo 404 |
 | #232 | profullstack/sh1pt | scale dns + scale down | ⛔ Repo 404 |
